@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sutd-tts-lib"
-version = "0.1.0"
+version = "0.1.1"
 description = "A (relatively) lightweight library for programmatically submitting entries to SUTD's Temperature Taking System, without Selenium and the like."
 authors = ["Chester <chester8991@gmail.com>"]
 packages = [
